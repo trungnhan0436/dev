@@ -1,0 +1,16 @@
+{
+    "name": "dev",
+    "type": "library",
+    "description": "demo",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://yourcompany.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jordi Boggiano",
+            "email": "j.boggiano@seld.be",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ],
+}
